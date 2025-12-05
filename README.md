@@ -132,5 +132,5 @@ It works in two modes:
    - `ollama pull llama3.1:8b`
  - Ensure code matches the end point of the Ollama localhost server and the name of the model
 
- -Run the command
-  -python lightweightvirtualassistant2140.py
+ -In the directory of the py file, run the command
+  `-python lightweightvirtualassistant2140.py`
