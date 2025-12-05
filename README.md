@@ -133,4 +133,4 @@ It works in two modes:
  - Ensure code matches the end point of the Ollama localhost server and the name of the model
 
  -In the directory of the py file, run the command
-  `-python lightweightvirtualassistant2140.py`
+  `python lightweightvirtualassistant2140.py`
