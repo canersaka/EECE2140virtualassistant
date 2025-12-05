@@ -14,7 +14,7 @@ combined to make a realistic chatbot. This is accomplished by making:
 - A simple **summary** feature that reports what happened overall during the conversation
 - An optional **local LLM fallback** (Ollama + a GGUF) for questions that don't match or are open ended.
 
----
+--
 
 ## 2. What the assistant can do
 
