@@ -38,7 +38,7 @@ The assistant also:
 - Matches typing style
   - if you type everything in lowercase, it replies in lowercase too.
 
----
+
 
 ## 3. How it works (design)
 
@@ -113,7 +113,7 @@ It works in two modes:
      to the Ollama endpoint.
   5. Returns the LLM’s reply.
 
----
+
 
 ## 4. How to run the project
 
